@@ -3,5 +3,4 @@ list of your current directory.
 changes the working directory to the user’s home directory.
 Display current directory contents in a long format
 Display current directory contents, including hidden files with long format
-Display current directory contents with user and group IDs displayed numerically
-
+Display current directory contents with user and group IDs displayed numericallyscript that creates a directory named my first directory in the /tmp/ directory
